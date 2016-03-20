@@ -2,22 +2,22 @@
   "apps": [
         {
             "serverURL"        : "https://api.parse.com/1/",
-            "appId"            : "zAQaHNRFUYs2K3rSKzHX0UYBQ0hnLRwaNi4wSEFJ",
-            "masterKey"        : "QUPkjdJOQ3gTgxqghQCBHfeoVmhxPxQV9Ta5C5fR",
-            "javascriptKey"    : "myJavascriptKey",
-            "appName"          : "Test parse LIVE"
+            "appId"            : "",
+            "masterKey"        : "",
+            "javascriptKey"    : "",
+            "appName"          : ""
         },
         {
-            "serverURL"        : "http://parse-server-parse-application.osv3apps.sapp.io/parse/",
-            "appId"            : "myAPP_ID",
-            "masterKey"        : "myMASTER_KEY",
-            "appName"          : "Test Openshift"
+            "serverURL"        : "",
+            "appId"            : "",
+            "masterKey"        : "",
+            "appName"          : ""
         }
   ],
     "users": [
     {
-      "user":"user1",
-      "pass":"pass"
+      "user":"",
+      "pass":""
     }
   ]
 }
